@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Anshul Shah"
   avatar           : "github.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Dual Degree student at IIT Madras"
   location         : "Chennai"
   employer         :
   googlescholar    : 
-  email            :
+  email            : "anshulbshah@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,13 +98,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
