@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "github.jpeg"
+  avatar           : "github.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Chennai"
   employer         :
