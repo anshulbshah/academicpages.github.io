@@ -16,7 +16,7 @@ main:
    # url: /year-archive/
     
   - title: "Projects"
-    url: /projects.md
+    url: /_pages/projects.md
     
   #- title: "Guide"
   #  url: /markdown/
