@@ -1,7 +1,7 @@
 ---
-title: "FCN"
+title: "Training a Fully connected network from scratch"
 collection: talks
-type: "Talk"
+type: ""
 permalink: /talks/2012-03-01-talk-1
 venue: "Deep Learning Course : IIT Madras"
 date: Feb 2017
