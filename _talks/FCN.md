@@ -1,5 +1,5 @@
 ---
-title: "Training a Fully connected network from scratch"
+title: "MNIST Digit Classification"
 collection: talks
 type: ""
 permalink: /talks/2012-03-01-talk-1
