@@ -2,7 +2,7 @@
 title: "MNIST Digit Classification"
 collection: talks
 type: "Deep Learning Course"
-permalink: /talks/2012-03-01-talk-1
+permalink: https://github.com/anshulbshah/Fully-Connected-Network-without-using-DL-Libraries
 venue: "IIT Madras"
 ---
 
