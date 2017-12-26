@@ -15,7 +15,8 @@ Implemented as a course assignment
 
 Talks
 ======
-  <ul>{% for post in site.projects %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
+{% for post in site.projects reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
 
