@@ -13,3 +13,9 @@ redirect_from:
 ======
 Implemented as a course assignment
 
+Talks
+======
+  <ul>{% for post in site.projects %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
