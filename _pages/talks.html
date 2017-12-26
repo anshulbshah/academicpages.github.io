@@ -5,7 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Definition Lists
-
-Definition List Title
-:   Definition list division
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
