@@ -5,4 +5,4 @@ type: "Deep Learning Course"
 venue: "IIT Madras"
 ---
 
-[Training a FCN from scratch using numpy for MNIST digit classification](https://github.com/anshulbshah/Fully-Connected-Network-without-using-DL-Libraries)
+Training a FCN from scratch using numpy for MNIST digit classification ([Link](https://github.com/anshulbshah/Fully-Connected-Network-without-using-DL-Libraries))
