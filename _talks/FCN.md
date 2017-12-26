@@ -2,7 +2,6 @@
 title: "MNIST Digit Classification"
 collection: talks
 type: "Deep Learning Course"
-permalink: ""
 venue: "IIT Madras"
 ---
 
