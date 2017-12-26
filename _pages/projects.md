@@ -16,7 +16,7 @@ Implemented as a course assignment
 Talks
 ======
 
-{% for post in site.projects reversed %}
+{% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
 
