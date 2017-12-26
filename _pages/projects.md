@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-FCN from scratch
+[FCN from scratch](https://github.com/anshulbshah/Fully-Connected-Network-without-using-DL-Libraries)
 ======
 Implemented as a course assignment
 
