@@ -17,6 +17,9 @@ main:
     
   #- title: "Projects"
   #  url: /projects/
+  
+  - title: "Experience"
+    url: /CV/
     
   #- title: "Guide"
   #  url: /markdown/
