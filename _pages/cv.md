@@ -11,6 +11,9 @@ Experience
 ======
 * Summer 2015: Intern
 :  Matrix ComSec R&D
+<address>
+  Matrix ComSec R&D
+</address>
   * Surveillance Camera Enhancement
 
 * Summer 2016: Research Intern
