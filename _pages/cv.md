@@ -10,10 +10,7 @@ redirect_from:
 Experience
 ======
 * Summer 2015: Intern
-:  Matrix ComSec R&D
-<address>
-  Matrix ComSec R&D
-</address>
+  * Matrix ComSec R&D
   * Surveillance Camera Enhancement
 
 * Summer 2016: Research Intern
