@@ -11,7 +11,7 @@ Experience
 ======
 * Summer 2015: Intern
   * Matrix ComSec R&D
-  * Surveillance Camera Enhancement
+  * Surveillance Camera Video Enhancement
 
 * Summer 2016: Research Intern
   * IBM Research India
