@@ -6,4 +6,4 @@ exceprt:
 ---
 
 Verilog implementation of an enhanced version of CORDIC which does not require scale compensation. Based on the paper "Enhanced Scaling Free CORDIC" by Jamie et al.
-Simulation of a enhanced CORDIC which does not require scale compensation  ([Link](https://github.com/anshulbshah/Enhanced-CORDIC))
+Simulation of a enhanced CORDIC which does not require scale compensation  ([Github Link](https://github.com/anshulbshah/Enhanced-CORDIC))
