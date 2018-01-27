@@ -2,7 +2,6 @@
  title: "Blurred Image to Video generation"
  collection: talks
  type: "Guide : A.N. Rajagopalan. Paper submitted to CVPR'18 "
- venue: ""
  excerpt:  <img src='/images/movie_small.gif'> 
 ---
 
