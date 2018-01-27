@@ -2,6 +2,7 @@
   title: "Enhanced Scale Free CORDIC"
   collection: talks
   type: "Guide : Prof. K. Sridharan"
+  venue: "Course Project"
   excerpt: <img src='/images/equation.JPG'> 
 ---
 Guide : [*Prof. K. Sridharan*](http://www.ee.iitm.ac.in/~sridhara/)
