@@ -1,9 +1,9 @@
-# main links links
+rc# main links links
 main:
   #- title: "Publications"
   #  url: /publications/
 
-  - title: "Projects"
+  - title: "Research Experience"
     url: /projects/    
 
   #- title: "Teaching"
