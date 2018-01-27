@@ -1,8 +1,9 @@
 ---
-title: "Enhanced CORDIC"
+title: "Enhanced Scale Free CORDIC"
 collection: talks
-type: "Course Project for DSP Architectures and Embedded Systems"
-venue: "IIT Madras"
+type: "Guide : Prof. K. Sridharan"
+exceprt: 
 ---
 
+Verilog implementation of an enhanced version of CORDIC which does not require scale compensation. Based on the paper "Enhanced Scaling Free CORDIC" by Jamie et al.
 Simulation of a enhanced CORDIC which does not require scale compensation  ([Link](https://github.com/anshulbshah/Enhanced-CORDIC))
