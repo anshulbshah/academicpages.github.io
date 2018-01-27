@@ -233,9 +233,9 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks2
+      type: talks
     values:
-      layout: talk2
+      layout: talk
       author_profile: true
       share: true
 # Sass/SCSS
