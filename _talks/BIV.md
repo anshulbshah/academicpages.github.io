@@ -1,8 +1,9 @@
 ---
-title: "Blurred Image to Video generation"
-collection: talks
-type: "Guide : A.N. Rajagopalan. Paper submitted to CVPR'18 "
-excerpt:  <img src='/images/movie_small.gif'> 
+ title: "Blurred Image to Video generation"
+ collection: talks
+ type: "Dual Degree Research Project. Paper submitted to CVPR'18 "
+ venue: ""
+ excerpt:  <img src='/images/movie_small.gif'> 
 ---
 
 ([Github](https://github.com/anshulbshah/Blurred-Image-to-Video))
