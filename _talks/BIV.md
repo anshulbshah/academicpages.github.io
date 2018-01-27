@@ -3,7 +3,7 @@ title: "Blurred Image to Video generation"
 collection: talks
 type: "Dual Degree Research Project"
 venue: "IIT Madras"
-excerpt:   <Paper submitted to CVPR'18 img src='/images/out_page_biv.gif'>
+excerpt:   Paper submitted to CVPR'18 <img src='/images/out_page_biv.gif'>
 ---
 
 ([Github](https://github.com/anshulbshah/Blurred-Image-to-Video))
