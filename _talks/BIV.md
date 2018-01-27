@@ -6,4 +6,5 @@ venue: "IIT Madras"
 excerpt:   <img src='/images/out_page_biv.gif'>
 ---
 
-Generate a video from a blurred image (Submitted to CVPR'18) ([Link](https://github.com/anshulbshah/Blurred-Image-to-Video))
+Generate a video from a blurred image (Submitted to CVPR'18) ([Github](https://github.com/anshulbshah/Blurred-Image-to-Video))
+Built a deep architecture to extract a temporally consistent video from a motion blurred images. The work is first of its kind as the traditional algorithms extract only a single deblurred image. The model uses a recurrent network built using ConvLSTM cells. Submitted the work to IEEE Conference on Pattern Recognition and Computer Vision 2018 (CVPR'18).
