@@ -4,7 +4,7 @@
  type: "Guide : A.N. Rajagopalan"
  venue: "IIT Madras"
  excerpt:  <img src='/images/movie_small.gif'> 
-**check**
+ header: checck
 ---
 
 
