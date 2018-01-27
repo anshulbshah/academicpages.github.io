@@ -1,5 +1,5 @@
 ---
-title: "Optical Digital to Analog Convertor"
+title: "All Optical Digital to Analog Convertor"
 collection: talks
 type: "Guide : Dr. Deepa Venkitesh"
 venue: "Course Project"
