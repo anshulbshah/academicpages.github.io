@@ -12,4 +12,4 @@ I am currently in the final year of B.Tech + M.Tech program in Electrical Engine
 
 I am passionate about the fields of Computer Vision and Image Processing.
 
-[here](https://anshulbshah.github.io/files/Anshul.pdf) is a link to my CV
+[Here](https://anshulbshah.github.io/files/Anshul.pdf) is a link to my CV
