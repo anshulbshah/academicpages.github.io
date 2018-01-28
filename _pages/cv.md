@@ -8,7 +8,9 @@ redirect_from:
 ---
 Education
 ======
-<p> <img src="/images/logo.png" alt="Smiley face" align="middle" style="width:100px;height:100px;">Dual Degree in Electrical Engineering.<br /> Minor in Robotics.</p> 
+<p> <img src="/images/logo.png" alt="Smiley face" align="middle" style="width:100px;height:100px;">Dual Degree in Electrical Engineering.
+  fsdf
+  <br> Minor in Robotics.</p> 
 
 afsdfdsa
 
