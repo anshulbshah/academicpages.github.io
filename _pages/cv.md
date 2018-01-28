@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experience"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,21 +10,14 @@ Education
 ======
 <p> <img src="/images/logo.png" alt="Smiley face" align="middle" style="width:100px;height:100px;">    Dual Degree in Electrical Engineering. (2013-2018)</p> 
 
-<p> <img src="/images/ctu.jpg" alt="Smiley face" align="middle" style="width:100px;height:100px;">    Fakulta elektrotechnická : Semester Abroad (Aug 2016-Jan 2017)</p> 
+<p> <img src="/images/ctu.jpg" alt="Smiley face" align="middle" style="width:100px;height:100px;">    Fakulta elektrotechnická : Semester Abroad (Fall 2016)</p> 
 
 
 Experience
 ======
-* Summer 2015: Intern
-  * Matrix ComSec R&D
-  * Surveillance Camera Video Enhancement
+<p> <img src="/images/matrix.jpg" alt="Smiley face" align="middle" style="width:100px;height:100px;">    Surveillance Camera Video Enhancement : R&D Internship : Summer 2015</p> 
 
-* Summer 2016: Research Intern
-  * IBM Research India
-  * Virtual Cognitive Mirror
-  
-* Fall 2016: Semester Abroad
-  * Czech Technical University
+<p> <img src="/images/ibm.jpg" alt="Smiley face" align="middle" style="width:100px;height:100px;">    Virtual Cognitive Mirror : Research Internship : Summer 2016</p> 
 
 * Fall 2017: Teaching Assistant
   * Indian Institute of Technology Madras
