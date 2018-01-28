@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+Click [!here](https://anshulbshah.github.io/files/Anshul.pdf) for my comprehensive CV
 Industry Experience
 ======
 <p> <img src="/images/ibm.jpg" alt="Smiley face" align="middle" style="width:100px;height:100px;">    Virtual Cognitive Mirror : Research Internship : Summer 2016</p> 
