@@ -1,8 +1,8 @@
 ---
 title: "Indoor Navigation"
 collection: talks
-type: "Electrical Engineering Hackathon"
+type: "Hacakthon Project"
 venue: "IIT Madras"
 ---
 
-A system to help navigate inside a building ([Link](https://github.com/anshulbshah/Indoor-Navigation))
+Conceptualized and built a system to navigate a person to a room inside a building. Used Google's speech API for voice recognition and generation. Implemented on the RaspberryPi platform. ([Github Link](https://github.com/anshulbshah/Indoor-Navigation))
