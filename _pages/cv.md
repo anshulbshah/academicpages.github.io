@@ -6,11 +6,18 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+Education
+======
+<div style="text-align:right" markdown="1">
+
+![Alt Text](/images/dac.jpg "Caption")
+
+</div>
+
 
 Experience
 ======
 * Summer 2015: Intern
- ![alt text](https://github.com/anshulbshah/Blurred-Image-to-Video/blob/master/out.gif) 
   * Matrix ComSec R&D
   * Surveillance Camera Video Enhancement
 
