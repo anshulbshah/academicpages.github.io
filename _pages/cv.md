@@ -9,10 +9,11 @@ redirect_from:
 Education
 ======
 <p> <img src="/images/logo.png" alt="Smiley face" align="middle" style="width:100px;height:100px;">Dual Degree in Electrical Engineering.
-  fsdf
-  <br> Minor in Robotics.</p> 
+  <br> Minor in Robotics.<br> CGPA:9.32/10</p> 
 
-afsdfdsa
+<p> <img src="/images/ctu.jpg" alt="Smiley face" align="middle" style="width:100px;height:100px;">Semester Abroad
+  <br>Fakulta elektrotechnická</p> 
+
 
 Experience
 ======
