@@ -14,6 +14,7 @@ fdsahflkshadf
 ![Alt Text](/images/dac.jpg "Caption")
 
 </div>
+<p>This is some text. <img src="/images/dac.jpg" alt="Smiley face" align="right"> This is some text.</p> 
 
 afsdfdsa
 
