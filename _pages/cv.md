@@ -8,9 +8,9 @@ redirect_from:
 ---
 Education
 ======
-<p> <img src="/images/logo.png" alt="Smiley face" align="middle" style="width:100px;height:100px;">    Dual Degree in Electrical Engineering.</p> 
+<p> <img src="/images/logo.png" alt="Smiley face" align="middle" style="width:100px;height:100px;">    Dual Degree in Electrical Engineering. (2013-2018)</p> 
 
-<p> <img src="/images/ctu.jpg" alt="Smiley face" align="middle" style="width:100px;height:100px;">    Fakulta elektrotechnická : Semester Abroad</p> 
+<p> <img src="/images/ctu.jpg" alt="Smiley face" align="middle" style="width:100px;height:100px;">    Fakulta elektrotechnická : Semester Abroad (Aug 2016-Jan 2017)</p> 
 
 
 Experience
