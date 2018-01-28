@@ -8,11 +8,9 @@ redirect_from:
 ---
 Education
 ======
-<p> <img src="/images/logo.png" alt="Smiley face" align="middle" style="width:100px;height:100px;">    Dual Degree in Electrical Engineering.
-  <br> Minor in Robotics.<br> CGPA:9.32/10</p> 
+<p> <img src="/images/logo.png" alt="Smiley face" align="middle" style="width:100px;height:100px;">    Dual Degree in Electrical Engineering.</p> 
 
-<p> <img src="/images/ctu.jpg" alt="Smiley face" align="middle" style="width:100px;height:100px;">    Fakulta elektrotechnická
-  <br>Semester Abroad</p> 
+<p> <img src="/images/ctu.jpg" alt="Smiley face" align="middle" style="width:100px;height:100px;">    Fakulta elektrotechnická : Semester Abroad</p> 
 
 
 Experience
