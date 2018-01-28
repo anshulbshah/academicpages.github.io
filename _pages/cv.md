@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Click [here](https://anshulbshah.github.io/files/Anshul.pdf) for my comprehensive CV
 
 Industry Experience
 ======
