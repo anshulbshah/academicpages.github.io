@@ -10,6 +10,7 @@ redirect_from:
 Experience
 ======
 * Summer 2015: Intern
+ ![alt text](https://github.com/anshulbshah/Blurred-Image-to-Video/blob/master/out.gif) 
   * Matrix ComSec R&D
   * Surveillance Camera Video Enhancement
 
