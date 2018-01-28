@@ -24,5 +24,8 @@ main:
   - title: "Experience"
     url: /cv/
     
+  - title: "Education"
+    url: /edu/
+    
   #- title: "Guide"
   #  url: /markdown/
