@@ -3,7 +3,7 @@
  collection: talks
  type: "Guide : A.N. Rajagopalan"
  venue: "IIT Madras"
- excerpt:  <img src='/images/im.JPG'> 
+ excerpt:  <img src='/images/im2.JPG'> 
  header: checck
 ---
 
