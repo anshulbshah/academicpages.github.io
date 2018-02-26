@@ -10,5 +10,5 @@ Guide : [*Prof. A.N. Rajagopalan*](http://www.ee.iitm.ac.in/ipcvlab/faculty)
 
 <img src='/images/movie_RS.gif'> 
 
-Developed deep architecture to rectify rolling shutter effect in real videos with both camera motion and dynamic object motion. First method to handle general scenes with state-of-the-art results on scenes with only camera motion. Training dataset will be publicly released.
+Developed deep architecture to rectify rolling shutter effect in real videos with both camera motion and dynamic object motion. First method to handle general scenes with state-of-the-art results on scenes with only camera motion. Training dataset will be soon released.
 
