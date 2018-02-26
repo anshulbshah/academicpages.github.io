@@ -3,7 +3,7 @@
  collection: talks2
  type: "Guide : A.N. Rajagopalan"
  venue: "To be submitted to ECCV'18"
- excerpt:  <img src='/images/movie_small.gif'> 
+ excerpt:  <img src='/images/movie_RS.gif'> 
 ---
 
 Guide : [*Prof. A.N. Rajagopalan*](http://www.ee.iitm.ac.in/ipcvlab/faculty)
