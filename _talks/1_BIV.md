@@ -2,7 +2,7 @@
  title: "Blurred Image to Video generation"
  collection: talks2
  type: "Guide : A.N. Rajagopalan"
- venue: "To be submitted to ECCV'18"
+ venue: "Submitted to ECCV'18"
  excerpt:  <img src='/images/movie_small.gif'> 
 ---
 
