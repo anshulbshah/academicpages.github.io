@@ -8,8 +8,8 @@ redirect_from:
 ---
 Education
 ======
-<p><img src="/images/logo.png" alt="Smiley face" align="middle" style="width:100px;height:100px;">    Dual Degree in Electrical Engineering. (2013-2018) </p>
-  -  CGPA : 9.32/10 (End of 9th Semester)
+<p><img src="/images/logo.png" alt="Smiley face" align="middle" style="width:100px;height:100px;">    B.Tech(Honors) and M.Tech in Electrical Engineering. (2013-2018) </p>
+  -  CGPA : 9.39/10 
   -  Minor in Robotics
 <p> <img src="/images/ctu.jpg" alt="Smiley face" align="middle" style="width:100px;height:100px;">    Fakulta elektrotechnická : Semester Abroad (Fall 2016)</p> 
 
@@ -21,7 +21,7 @@ Courses
   - Deep Learning
   - 3D Computer Vision
   - Machine Learning for Computer Vision
-  - Convex Optimization (ongoing)
+  - Convex Optimization
  
 *Photonics and Optics*
   - Optical Signal Processing
@@ -50,7 +50,6 @@ Courses
 *Mathematics*
   - Probability, Statistics and Stochastic Processes 
   - Linear Algebra and Numerical Analysis
-  - Game Theory (ongoing)
   - Functions of One Variable
   - Functions of Several Variable
   - Mathematical Finance
