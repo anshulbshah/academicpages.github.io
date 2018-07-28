@@ -2,6 +2,7 @@
  title: "Blurred Image to Video generation"
  collection: talks2
  type: "Guide : A.N. Rajagopalan"
+ venue: "Dual Degree Project"
  excerpt:  <img src='/images/movie_small.gif'> 
 ---
 
