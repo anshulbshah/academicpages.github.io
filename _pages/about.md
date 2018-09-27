@@ -13,4 +13,5 @@ I am a 1st year Ph.D. student at University of Maryland, College Park in the dep
 Previously I obtained a B.Tech(Honors) and M.Tech in Electrical Engineering from Indian Institute of Technology Madras. At IIT-M I was working under the guidance of [Prof. A.N Rajagopalan](http://www.ee.iitm.ac.in/ipcvlab) in the area of Image Deblurring and Video Generation.
 
 Contact : anshulb@cs.umd.edu / anshulbshah@gmail.com
+
 [Here](https://anshulbshah.github.io/files/AnshulCV.pdf) is a link to my CV
