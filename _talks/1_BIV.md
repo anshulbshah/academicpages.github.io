@@ -1,5 +1,5 @@
 ---
- title: "Blurred Image to Video generation"
+ title: "Bringing Alive Blurred Moments"
  collection: talks2
  type: "Guide : A.N. Rajagopalan"
  venue: "Dual Degree Project"
