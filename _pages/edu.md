@@ -8,6 +8,8 @@ redirect_from:
 ---
 Education
 ======
+<p><img src="/images/logo2.png" alt="Smiley face" align="middle" style="width:100px;height:100px;">    Ph.D. in Computer Science (Aug. 2018 - Present) </p>
+  -  Advisor : Prof. Rama Chellappa
 <p><img src="/images/logo.png" alt="Smiley face" align="middle" style="width:100px;height:100px;">    B.Tech(Honors) and M.Tech in Electrical Engineering. (2013-2018) </p>
   -  CGPA : 9.39/10 
   -  Minor in Robotics
@@ -17,6 +19,8 @@ Courses
 ======
 
 *Computer Vision and Machine Learning*
+  - Image Understanding
+  - Advanced Techniques in Visual Learning and Recognition
   - Image Signal Processing
   - Deep Learning
   - 3D Computer Vision
