@@ -14,4 +14,3 @@ Previously I obtained a B.Tech(Honors) and M.Tech in Electrical Engineering from
 
 Contact : anshulb@cs.umd.edu / anshulbshah@gmail.com
 
-[Here](https://anshulbshah.github.io/files/AnshulCV.pdf) is a link to my CV
