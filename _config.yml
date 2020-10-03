@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anshul Shah"
 title_separator          : "-"
 name                     : &name "Anshul Shah"
-description              : &description "PhD Student in Computer Science at University of Maryland, College Park"
+description              : &description "PhD Student in Computer Science at Johns Hopkins University"
 url                      : https://anshulbshah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Anshul Shah"
   avatar           : "github.jpg"
-  bio              : "PhD Student in Computer Science at University of Maryland, College Park"
-  location         : "College Park, MD"
+  bio              : "PhD Student in Computer Science at Johns Hopkins University"
+  location         : "Baltimore, MD"
   employer         :
   googlescholar    : 
   email            : "anshulbshah@gmail.com"
