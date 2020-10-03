@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
-    url: /projects/    
+  #- title: "Projects"
+  #  url: /projects/    
     
   #- title: "Other Projects"
   #  url: /other_projects/    
@@ -21,11 +21,11 @@ main:
   #- title: "Projects"
   #  url: /projects/
   
-  - title: "Experience"
-    url: /cv/
+  #- title: "Experience"
+  #  url: /cv/
     
-  - title: "Education"
-    url: /edu/
+  #- title: "Education"
+  #  url: /edu/
     
   #- title: "Guide"
   #  url: /markdown/
