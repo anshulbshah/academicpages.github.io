@@ -3,7 +3,7 @@ title: "Attention Driven Vehicle Re-identification and Unsupervised Anomaly Dete
 for Traffic Understanding"
 collection: publications
 permalink: /publication/w_2019cvpr
-date: 2019-03-09
+date: 2019-03-08
 venue: 'CVPR Workshops 2019'
 citation: Khorramshahi, P., Peri, N., Kumar, A., Shah, A., & Chellappa, R. (2019, June). Attention Driven Vehicle Re-identification and Unsupervised Anomaly Detection for Traffic Understanding. In CVPR Workshops (pp. 239-246).
 ---
