@@ -13,5 +13,6 @@ I am a Ph.D. student at Johns Hopkins University in the department of Computer S
 Previously I obtained a B.Tech(Honors) and M.Tech in Electrical Engineering from Indian Institute of Technology Madras. At IIT-M I was working under the guidance of [Prof. A.N Rajagopalan](http://www.ee.iitm.ac.in/ipcvlab) in the area of Image Deblurring and Video Generation.
 
 You can find my current CV [here](https://anshulbshah.github.io/files/AnshulCV.pdf)
+
 Contact : ashah95@jhu.edu / anshulbshah@gmail.com
 
